@@ -26,7 +26,7 @@ Feel free to explore the different folders to see the various outputs. Each fold
 
 This repository is set up with GitHub Pages, making it easy to view the HTML outputs online. You can access the site at:
 
-[https://yourusername.github.io/gpt-outputs](https://yourusername.github.io/gpt-outputs)
+[https://rifaterdemsahin.github.io/gpt-outputs](https://rifaterdemsahin.github.io/gpt-outputs)
 
 ## Contributing
 
